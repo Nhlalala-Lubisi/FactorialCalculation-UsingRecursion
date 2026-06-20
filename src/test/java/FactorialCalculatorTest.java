@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * Unit tests for FactorialCalculator, covering edge cases and standard inputs.
+ * Unit tests for Factorial Calculator, covering edge cases and standard inputs.
  */
 public class FactorialCalculatorTest {
     // 0! = 1 by mathematical definition (edge case)
