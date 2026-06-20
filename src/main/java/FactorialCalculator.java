@@ -1,5 +1,5 @@
 /**
- * FactorialCalculator - Computes the factorial of a number using recursion.
+ * Factorial Calculator - Computes the factorial of a number using recursion.
  */
 public class FactorialCalculator {
 
